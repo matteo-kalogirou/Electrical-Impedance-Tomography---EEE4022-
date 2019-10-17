@@ -7,8 +7,8 @@ This folder contains the programs and functions used to:
 - Train the MANN
   - ```mann_test.m```
 - Reconstruct EIT images using neural networks
-  -```E16_mann_eval.m```
-  -```E32_mann_eval.m```
+  - ```E16_mann_eval.m```
+  - ```E32_mann_eval.m```
 - Analyse measurement data
   - ```importEITinput.m```
   - ```quantify_noise.m```
