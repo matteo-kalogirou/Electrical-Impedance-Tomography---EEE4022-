@@ -12,7 +12,7 @@ This folder contains the programs and functions used to:
 - Analyse measurement data
   - ```importEITinput.m```
   - ```quantify_noise.m```
-  -```hom_inh_signal_difference_plot.m```
+  - ```hom_inh_signal_difference_plot.m```
 - Apply the networks to the experimental data
   - ```EIT_16E_model2.m```
   - ```EIT_32E_model2.m```
